@@ -1,6 +1,10 @@
 # datetimerange
 A simple helper to deal with datetime ranges operations.
 
+Installation:
+```sh
+Install-Package DateTimeRange
+```
 
 Usage:
 
